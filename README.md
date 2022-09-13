@@ -6,10 +6,13 @@
 </p>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 ### &nbsp;About Me :
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - ⚡ In my free time I solve problems on LeetCode and read tech articles on GeeksforGeeks.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Akash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-verma-4538971ab/)
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
